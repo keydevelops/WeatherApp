@@ -10,6 +10,7 @@
 1. Зарегестрируйтесь на сайте OpenWeatherMap
 2. Подтвердите почту на OpenWeatherMap иначе ничего не будет работать.
 3. Скопируйте API токен с https://home.openweathermap.org/api_keys
+   
 Далее выполните команды:
 1. ``git clone https://github.com/keydevelops/WeatherApp/`` (нужен установленный git на пк)
 2. ``pip install -r libraries.txt``
